@@ -40,19 +40,16 @@ export default async function Home() {
         <div className="absolute inset-0 bg-black" />
         <div className="relative z-20 flex items-center text-lg font-medium">
           <Auth0Logo className="mr-2 size-8" />
-          <span className="font-semibold">SaaStart</span>
+          <span className="font-semibold">Quzones</span>
         </div>
         <div className="relative z-20 m-auto max-w-sm text-center">
           <blockquote className="space-y-2">
             <div className="space-y-8">
               <p className="text-lg font-medium">
-                SaaStart is a reference B2B SaaS application built using Next.js
-                and Auth0 by Okta.
+                Quzones - Qubit Zones
               </p>
               <p className="text-lg">
-                It features multi-tenancy support, user management and access
-                controls, security policies, self-service Single Sign-On
-                configuration and more out-of-the-box.
+                Quzones by Dimechain OÜ is driving breakthrough in Healthcare, logistics, portfolio optimization, drug discovery, material science, traffic management, defense and supply chains. 
               </p>
             </div>
           </blockquote>
