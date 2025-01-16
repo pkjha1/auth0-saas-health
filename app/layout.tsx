@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   title: "Quzones | Dimechain OÜ",
   description:
     "
-Unleash the Power of Quantum Computing: Where Innovation meets Computation"
+Unleash the Power of Quantum Computing - Where Innovation meets Computation"
 }
 
 export default async function RootLayout({
