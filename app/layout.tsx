@@ -14,7 +14,8 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Quzones | Dimechain OÜ",
   description:
-    "Where Innovation meets Computation: new URL("https://dimechain.eu"),
+    "
+Unleash the Power of Quantum Computing: Where Innovation meets Computation"
 }
 
 export default async function RootLayout({
