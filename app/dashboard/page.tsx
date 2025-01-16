@@ -9,11 +9,11 @@ export default async function DashboardHome() {
       <div className="flex flex-1 items-center justify-center rounded-3xl border bg-field shadow-sm">
         <div className="flex max-w-[500px] flex-col items-center gap-1 text-center">
           <h3 className="text-2xl font-bold tracking-tight">
-            Explore the SaaS Starter
+            Exprience the Quzones 
           </h3>
           <p className="mt-3 text-muted-foreground">
-            This reference app demonstrates how to build a multi-tenant B2B SaaS
-            application powered by Auth0 by Okta.
+            Unleash the Power of Quantum Computing-
+Where Innovation meets Computation.
           </p>
           <p className="mt-3 text-muted-foreground">
             Head over to the Settings Dashboard to explore common administrative
